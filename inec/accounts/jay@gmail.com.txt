@@ -1,0 +1,6 @@
+Thanks for your registration
+ Name: emma, 
+ Last Name: akhuetie, 
+ Mobile-Number: 9191919, 
+ Email : jay@gmail.com, 
+ Password: 123

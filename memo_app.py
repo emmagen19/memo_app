@@ -105,6 +105,7 @@ delete_btn = Button(root, text='DELETE MEMO', padx=30, pady=10,command=delete_me
 read_btn = Button(root, text='READ MEMO', padx=30, pady=10,command=read_memo).grid(row=6,column=0)
 quit_btn = Button(root, text='EXIT MEMO', padx=30, pady=10, command=exit_memo).grid(row=7,column=0)
 submit_btn = Button(root,text="SUBMIT",command=submit).grid(row=3,column=8)
+#emma
 
 
 
